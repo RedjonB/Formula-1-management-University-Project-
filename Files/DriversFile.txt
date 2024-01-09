@@ -1,0 +1,10 @@
+Nyck De Vries~Netherlands~AlphaTauri~6~14~5~686~64
+Lewis Hamilton~England~Mercedes~3~7~9~628~64
+Alexander Albon~Thailand~Williams~3~9~10~679~64
+Fernando Alonso~Spain~Aston Martin~6~10~6~689~64
+Maksimo Ramaj~Albanian~Audi~4~3~6~459~48
+Max Verstappen~Netherlands~Red Bull Racing~6~3~3~529~64
+Nico Hulkenberg~Germany~Haas F1 Team~13~4~6~743~64
+Esteban Ocon~France~Alpine~4~2~9~570~64
+Valtteri Bottas~Finland~Alfa Romeo~8~5~5~624~64
+Lando Norris~England~McLaren~10~5~5~721~64
